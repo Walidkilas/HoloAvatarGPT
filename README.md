@@ -5,26 +5,26 @@ Hololens 2
 Welcome to the Unity Hololens 2 AR Interactive Avatar Communication project! This project leverages the power of Microsoft's Hololens 2 augmented reality headset and OpenAI's ChatGPT API to enable interactive and immersive avatar-based communication with text-to-speech and speech-to-text capabilities.
 
 ## Table of Contents
-Introduction
-Features
-Getting Started
-Prerequisites
-Installation
-Usage
-Contributing
-License
-Introduction
+- Introduction
+- Features
+- Getting Started
+- Prerequisites
+- Installation
+- Usage
+- Contributing
+- License
+## Introduction
 In today's world, remote communication and collaboration are more important than ever. This project aims to enhance remote communication by providing an immersive AR experience using Hololens 2 and leveraging OpenAI's ChatGPT API for natural language interaction.
 
 With this Unity-based project, you can create interactive avatars that respond to your voice commands, allowing for realistic and engaging conversations in an augmented reality environment.
 
 ## Features
-Hololens 2 Integration: Utilize the power of Microsoft Hololens 2 for augmented reality experiences.
-Interactive Avatars: Create and customize avatars that respond to your voice commands.
-Text-to-Speech: Convert text input into speech for avatar responses.
-Speech-to-Text: Capture and process spoken language for interactive conversations.
-Natural Language Interaction: Leverage the ChatGPT API for realistic and context-aware conversations.
-Immersive AR Environment: Experience communication in an engaging augmented reality environment.
+- Hololens 2 Integration: Utilize the power of Microsoft Hololens 2 for augmented reality experiences.
+- Interactive Avatars: Create and customize avatars that respond to your voice commands.
+- Text-to-Speech: Convert text input into speech for avatar responses.
+- Speech-to-Text: Capture and process spoken language for interactive conversations.
+- Natural Language Interaction: Leverage the ChatGPT API for realistic and context-aware conversations.
+- Immersive AR Environment: Experience communication in an engaging augmented reality environment.
 ## Getting Started
 Follow these steps to get started with the Unity Hololens 2 AR Interactive Avatar Communication project.
 
